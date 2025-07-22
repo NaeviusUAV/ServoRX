@@ -1,5 +1,5 @@
 # ServoRX 
-Made to use old school RC plane receivers that are made to drive servos, on a speedybee, by converting the signal over an rp2040.
+CircuitPython / MicroPython library made to use old school RC plane receivers that drive servos, on a speedybee, by converting the signal over an rp2040.
 
 ---
 
