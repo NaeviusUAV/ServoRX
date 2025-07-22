@@ -58,6 +58,7 @@ Then pick a channel
 ---
 
 ### Using the library
+> using micropython, i could get it to read 6 channels in 0.000486 seconds (incl. timing logic)
 - Make a new file for your code (tip: name it boot.py to auto-run on boot, but only do that after testing your code by manually running it)
 ##### CircuitPython example
 > limited to 1 channel! use micropython for multiple + more efficiency
